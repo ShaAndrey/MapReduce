@@ -1,0 +1,3 @@
+/home/andrey/CLionProjects/MapReduce1/MapReduce/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/andrey/CLionProjects/MapReduce1/MapReduce/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andrey/CLionProjects/MapReduce1/MapReduce/cmake-build-debug/CMakeFiles/MapReduce.dir
