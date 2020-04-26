@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Reduce.dir/main.cpp.o  -o Reduce 
